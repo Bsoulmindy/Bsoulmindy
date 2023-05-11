@@ -6,5 +6,5 @@ If you want to know more about me, please visit my [portfolio website](https://b
 
 <div align="center">
   <!-- Github Readme Stats -->
-  <img src="https://github-readme-stats-bsoulmindy.vercel.app/api?username=Bsoulmindy&show_icons=true&theme=tokyonight&count_private=true&bg_color=90,005C97,363795,4B0082">
+  <img src="https://github-readme-stats-sglp-i4wflwyp2-bsoulmindy.vercel.app/api?username=Bsoulmindy&show_icons=true&theme=tokyonight&count_private=true&bg_color=90,005C97,363795,4B0082">
 </div>
