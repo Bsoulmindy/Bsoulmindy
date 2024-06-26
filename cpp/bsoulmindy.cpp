@@ -1,6 +1,8 @@
-# Oussama Moustadraf
+#include <string>
+#include <vector>
 
-```cpp
+#include "external.hpp"
+
 class Bsoulmindy : public Human
 {
 public:
@@ -64,4 +66,3 @@ private:
     int m_birthyear;
     Country m_country;
 };
-```
