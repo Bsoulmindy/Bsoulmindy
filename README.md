@@ -29,16 +29,16 @@ public:
     }
 
     /**
-     * @brief My personal projects that are open and accessible to everyone
+     * @brief My personal projects
      *
      * @return std::vector<Project>
      */
-    std::vector<Project> myOpenProjects()
+    std::vector<Project> myProjects()
     {
         return {
             Project("My Portfolio", "https://github.com/Bsoulmindy/My-Portfolio"),
-            Project("RevisionAssistant", "https://github.com/Bsoulmindy/RevisionAssistant"),
-            Project("Regions Music", "https://github.com/Bsoulmindy/Regions-Music"),
+            Project("RevisionAssistant", "https://github.com/Bsoulmindy/RevisionAssistant"), // Marked as private on October 6th, 2024
+            Project("Regions Music", "https://github.com/Bsoulmindy/Regions-Music"), // Marked as private on October 6th, 2024
         };
     }
 
