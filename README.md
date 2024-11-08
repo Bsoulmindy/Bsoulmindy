@@ -20,8 +20,8 @@ public:
     {
         return {
             Language("C++", "PL6 (Upper Intermediate)"),
+            Language("Java", "PL6 (Upper Intermediate)"),
             Language("C", "PL5 (Solid Intermediate)"),
-            Language("Java", "PL5 (Solid Intermediate)"),
             Language("JS/TS", "PL4 (Below Intermediate)"),
             Language("Dart", "PL4 (Below Intermediate)"),
             Language("Python3", "PL3 (Upper Beginner)"),

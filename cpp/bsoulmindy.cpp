@@ -20,8 +20,8 @@ public:
     {
         return {
             Language("C++", "PL6 (Upper Intermediate)"),
+            Language("Java", "PL6 (Upper Intermediate)"),
             Language("C", "PL5 (Solid Intermediate)"),
-            Language("Java", "PL5 (Solid Intermediate)"),
             Language("JS/TS", "PL4 (Below Intermediate)"),
             Language("Dart", "PL4 (Below Intermediate)"),
             Language("Python3", "PL3 (Upper Beginner)"),
@@ -37,8 +37,8 @@ public:
     {
         return {
             Project("My Portfolio", "https://github.com/Bsoulmindy/My-Portfolio"),
-            Project("RevisionAssistant", "https://github.com/Bsoulmindy/RevisionAssistant"),
-            Project("Regions Music", "https://github.com/Bsoulmindy/Regions-Music"),
+            Project("RevisionAssistant", "https://github.com/Bsoulmindy/RevisionAssistant"), // Marked as private on October 6th, 2024
+            Project("Regions Music", "https://github.com/Bsoulmindy/Regions-Music"),         // Marked as private on October 6th, 2024
         };
     }
 
