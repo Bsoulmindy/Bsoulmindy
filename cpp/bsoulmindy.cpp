@@ -37,8 +37,7 @@ public:
     {
         return {
             Project("My Portfolio", "https://github.com/Bsoulmindy/My-Portfolio"),
-            Project("RevisionAssistant", "https://github.com/Bsoulmindy/RevisionAssistant"), // Marked as private on October 6th, 2024
-            Project("Regions Music", "https://github.com/Bsoulmindy/Regions-Music"),         // Marked as private on October 6th, 2024
+            Project("RevisionAssistant", "https://revision-assistant.vercel.app/"),
         };
     }
 
