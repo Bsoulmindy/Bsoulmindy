@@ -22,22 +22,23 @@ public:
             Language("C++", "PL6 (Upper Intermediate)"),
             Language("Java", "PL6 (Upper Intermediate)"),
             Language("C", "PL5 (Solid Intermediate)"),
-            Language("JS/TS", "PL4 (Below Intermediate)"),
-            Language("Dart", "PL4 (Below Intermediate)"),
+            Language("Dart", "PL5 (Solid Intermediate)"),
+            Language("JS/TS", "PL4 (Base Intermediate)"),
             Language("Python3", "PL3 (Upper Beginner)"),
         };
     }
 
     /**
-     * @brief My personal projects
+     * @brief My personal projects that are open and accessible to everyone
      *
      * @return std::vector<Project>
      */
-    std::vector<Project> myProjects()
+    std::vector<Project> myOpenProjects()
     {
         return {
             Project("My Portfolio", "https://github.com/Bsoulmindy/My-Portfolio"),
             Project("RevisionAssistant", "https://revision-assistant.vercel.app/"),
+            Project("Regions Music", "https://regions-music.optidevnovate.com/"),
         };
     }
 
