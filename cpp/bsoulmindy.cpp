@@ -23,7 +23,7 @@ public:
             Language("Java", "PL6 (Upper Intermediate)"),
             Language("C", "PL5 (Solid Intermediate)"),
             Language("Dart", "PL5 (Solid Intermediate)"),
-            Language("JS/TS", "PL4 (Base Intermediate)"),
+            Language("JS/TS", "PL4 (Below Intermediate)"),
             Language("Python3", "PL3 (Upper Beginner)"),
         };
     }
@@ -37,7 +37,7 @@ public:
     {
         return {
             Project("My Portfolio", "https://github.com/Bsoulmindy/My-Portfolio"),
-            Project("RevisionAssistant", "https://revision-assistant.vercel.app/"),
+            Project("RevisionAssistant", "https://revision-assistant.optidevnovate.com/"),
             Project("Regions Music", "https://regions-music.optidevnovate.com/"),
         };
     }
@@ -63,6 +63,5 @@ private:
     std::string m_fullName;
     std::string m_profession;
     std::string m_schoolName;
-    int m_birthyear;
     Country m_country;
 };
