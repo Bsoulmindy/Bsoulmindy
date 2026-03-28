@@ -24,7 +24,7 @@ public:
             Language("C", "PL5 (Solid Intermediate)"),
             Language("Dart", "PL5 (Solid Intermediate)"),
             Language("JS/TS", "PL4 (Below Intermediate)"),
-            Language("Python3", "PL3 (Upper Beginner)"),
+            Language("Python3", "PL4 (Below Intermediate)"),
         };
     }
 
